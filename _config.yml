@@ -1,3 +1,5 @@
 theme: minima
 title: "Love Sundin's Github website"
 description: "A website introducing me"
+minima:
+    skin: dark
