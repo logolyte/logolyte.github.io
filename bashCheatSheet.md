@@ -3,6 +3,8 @@ layout: post
 title: Bash cheat sheet
 ---
 
+This is a collection of useful Bash commands.
+
 # Reading files
 `wc [file]`<br>
 Function: Prints the number of lines, words and bytes.<br>

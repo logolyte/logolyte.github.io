@@ -1,5 +1,11 @@
 theme: minima
 title: "Love Sundin's Github blog"
+description: ""
 author:
   name: Love Sundin
   email: lo1828su-s@student.lu.se
+header_pages:
+  - index.md
+  - bashCheatSheet.md
+  - markdownCheatSheet.md
+
