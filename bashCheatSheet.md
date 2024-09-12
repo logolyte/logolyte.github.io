@@ -1,8 +1,9 @@
-# Bash cheat sheet
+---
+layout: post
+title: Bash cheat sheet
+---
 
-A collection of useful Bash commands.
-
-## Reading files
+# Reading files
 `wc [file]`<br>
 Function: Prints the number of lines, words and bytes.<br>
 Options:
@@ -28,7 +29,7 @@ Options:
 - `-d`  display only repeated lines.
 - `-c`  also get the count of each type of line
 
-## Other commands
+# Other commands
 
 `history`<br>
 Function: Display terminal history.

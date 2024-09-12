@@ -1,5 +1,5 @@
 theme: minima
-title: "Love Sundin's Github website"
-description: "A website introducing me"
-minima:
-    skin: dark
+title: "Love Sundin's Github blog"
+author: Love Sundin
+  name: GitHub User
+  email: lo1828su-s@student.lu.se
